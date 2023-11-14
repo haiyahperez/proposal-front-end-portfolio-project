@@ -1,1 +1,0 @@
-# proposal-front-end-portfolio-project
